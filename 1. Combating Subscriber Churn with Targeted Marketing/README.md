@@ -40,7 +40,7 @@
 
 针对**高度活跃的“超级粉丝”用户**，可以将其**选为问卷调查或焦点小组的对象**，询问其看法（如更希望看到哪些视频内容等），从而进一步**提高用户参与感和归属感**，保持忠诚度。
 
-![User Cluster](images/Cluster Distribution.png)
+![User Cluster](images/Cluster_Distribution.png)
 
 ## 技术栈
 Python
