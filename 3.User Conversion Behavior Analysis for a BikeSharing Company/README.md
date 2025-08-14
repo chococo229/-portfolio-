@@ -42,3 +42,4 @@ The average trip duration for casual users is significantly longer than that of 
 
 <img width="795" height="529" alt="截屏2025-08-14 13 30 41" src="https://github.com/user-attachments/assets/e5b53da2-bc9b-4e89-af85-fd8bd6823e2f" />
  
+### Tech Stack： R
